@@ -1,42 +1,25 @@
 # grass-bot Grass Bot Auto Mining (MULTI AKUN)
 Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
 
-## Create Account Jika Belum Punya
 
-- Create Account : https://s.id/GrassAirdropPoints
-- Masukin Email and Password
-- Verifikasi Email dan Submit SOL Address
-- Done
-
-## Install Python and Depensi
-
+😍 Register Wallet Solflare
 ```
-sudo apt install python3 python3-pip
+https://chromewebstore.google.com/detail/solflare-wallet/bhhhlbepdkbapadjdnnojkbgioiodbic?hl=id
 ```
 
-## Clone GitHub
-
+😁 Register Via Email and Password : 
 ```
-git clone https://github.com/ImRevoltexee/grass
-cd grass-bot
+https://s.id/GrassAirdropPoints
 ```
 
+😈 Install Extension : 
 ```
-pip install -r requirements.txt
-```
+https://chrome.google.com/webstore/detail/grass-extension/ilehaonighjijnmpnagapkhpcdbhclfg?hl=en&authuser=0
+``` 
 
-## Edit Users.txt
+👌 Done, Just Leave
 
-```
-nano users.txt
-```
 
-Ganti Dengan User ID Akun Grass Kalian dan Save CTRL X Y Enter
 
-## Jalankan 
+## For Tutorial Indtalation You Can Cek In My Youtube👍
 
-```
-python3 main.py
-```
-
-Tunggu 5 - 10 Menit Untuk Pencarian Porxy nya
