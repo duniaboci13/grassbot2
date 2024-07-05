@@ -3,7 +3,7 @@ Donate and Support : 0xde260429ef7680c7a43e855b5fcf619948f34e2a
 
 ## Create Account Jika Belum Punya
 
-- Create Account : https://s.id/grassairdrop
+- Create Account : https://s.id/GrassAirdropPoints
 - Masukin Email and Password
 - Verifikasi Email dan Submit SOL Address
 - Done
